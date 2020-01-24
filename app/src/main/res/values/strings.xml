@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TempConvert</string>
+    <string name="temp_converter">Temp Converter</string>
+</resources>
